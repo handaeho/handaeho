@@ -73,7 +73,7 @@
 ---
 
 <div align="center">
-  <h1>📚 Readme Stats</h1>
+  <h1>📚 Stats</h1>
 </div>
 
 <div align="center">
