@@ -15,7 +15,7 @@
     <th>Languages</th>
     <th>Databases</th>
     <th>ML/AI</th>
-    <th>Web &amp; Frameworks</th>
+    <th>Frameworks</th>
     <th>Tools</th>
   </tr>
   <tr>
@@ -43,7 +43,7 @@
       <img src="https://img.shields.io/badge/polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"><br>
       <img src="https://img.shields.io/badge/LightGBM-%2348B9C7?style=for-the-badge&logo=lightgbm&logoColor=black" alt="LightGBM">
     </td>
-    <!-- Web & Frameworks -->
+    <!-- Frameworks -->
     <td align="center" valign="top" style="padding: 10px;">
       <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"><br>
       <img src="https://img.shields.io/badge/Flask-818F95?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask"><br>
